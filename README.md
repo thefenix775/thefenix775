@@ -4,4 +4,5 @@
 
 - 📚 2º Ano do ensino médio
 - 🚀 Javascript, TypeScript, NodeJS, React
+- 💚💜 NLW#1 && NLW#2
 - 📫 Como entrar em contato comigo **dev.moises.azevedo@gmail.com**
