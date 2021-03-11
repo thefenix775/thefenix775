@@ -2,6 +2,6 @@
 <h3 align = "center"> Sou um estudante, iniciando os estudos em programação.</h3>
 
 
-- 📚 2º Ano do ensino médio
+- 📚 3º Ano do ensino médio
 
 - 📫 Como entrar em contato comigo **dev.moises.azevedo@gmail.com**
