@@ -5,3 +5,4 @@
 - 📚 3º Ano do ensino médio
 
 - 📫 Como entrar em contato comigo **dev.moises.azevedo@gmail.com**
+![Twitter Follow](https://img.shields.io/twitter/follow/m4zeboy?label=Twitter&style=social)
