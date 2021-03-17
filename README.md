@@ -5,6 +5,4 @@
 
 <br>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/m4zeboy?label=Twitter&style=social)
-
-![GitHub followers](https://img.shields.io/github/followers/thefenix775?label=thefenix775&style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/m4zeboy?label=Twitter&style=social) ![GitHub followers](https://img.shields.io/github/followers/thefenix775?label=thefenix775&style=social)
