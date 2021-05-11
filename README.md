@@ -4,7 +4,7 @@
 **Contact me**
 * gmail - dev.moises.azevedo@gmail.com;
 * discord - M4ZEBOY#8644;
-* https://img.shields.io/twitter/url?color=%234484FF&label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fm4zeboy
+* ![follow me on twitter](https://img.shields.io/twitter/follow/m4zeboy?style=social)
 
 <a href="https://github.com/thefenix775">
 <img align="center" alt="thefenix775's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=thefenix775&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
